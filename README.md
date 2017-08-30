@@ -6,3 +6,8 @@ Establish a reliable data transfer pipe line between RMDB and hive. We customize
 
 Main features are listed below: 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
