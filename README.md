@@ -17,4 +17,4 @@ Main features are listed below:
 | Data quality audit|×|√|
 | Data access monitoring|×|√|
 | Diagnosis report|×|√|
-| 7X24 support|×|√|
+| 7 X 24 support|×|√|
