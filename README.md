@@ -11,6 +11,7 @@ Establish a reliable data transfer pipeline between RMDB and hive by wed based U
 | Auto deployment tool|√|√|
 | Real time data sync up|√|√|
 | Data encryption|√|√|
+| Data transfer encryption|√|√|
 | Web based managment|√|√|
 | Dynamic encryption key|√|√|
 | Pipeline monitoring by machine learning|×|√|
