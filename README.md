@@ -10,10 +10,11 @@ Main features are listed below:
 | ------------- |:-------------:| :-----:|
 | Auto deployment tool|√|√|
 | Real time data sync up|√|√|
-| Data encrypt|√|√|
+| Data encryption|√|√|
 | Web based managment|√|√|
 | Auto monitoring by machine learning|×|√|
 | Selectable encrypt method|×|√|
 | Data quality audit|×|√|
 | Data access monitoring|×|√|
 | Diagnosis report|×|√|
+| 7X24 support|×|√|
