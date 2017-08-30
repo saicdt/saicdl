@@ -11,3 +11,6 @@ Main features are listed below:
 | Auto deployment tool|√|√|
 | Web based managment|√|√|
 | Auto monitoring by machine learning|×|√|
+| Auto monitoring by machine learning|×|√|
+| Auto monitoring by machine learning|×|√|
+| Auto monitoring by machine learning|×|√|
