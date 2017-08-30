@@ -8,6 +8,6 @@ Main features are listed below:
 
 | Feature        | Community Version         | Enterprise Version  |
 | ------------- |:-------------:| :-----:|
-| Auto deployment tool| √ | × |
-| col 2 is      | ○      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Auto deployment tool|√|√|
+| Web based managment|√|√|
+| Auto monitoring by machine learning|×|√|
