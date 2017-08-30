@@ -6,11 +6,14 @@ Establish a reliable data transfer pipe line between RMDB and hive. We customize
 
 Main features are listed below: 
 
-| Feature        | Community Version         | Enterprise Version  |
+| Feature        | Community Version | Enterprise Version  |
 | ------------- |:-------------:| :-----:|
 | Auto deployment tool|√|√|
+| Real time data sync up|√|√|
+| Data encrypt|√|√|
 | Web based managment|√|√|
 | Auto monitoring by machine learning|×|√|
-| Auto monitoring by machine learning|×|√|
-| Auto monitoring by machine learning|×|√|
-| Auto monitoring by machine learning|×|√|
+| Selectable encrypt method|×|√|
+| Data quality audit|×|√|
+| Data access monitoring|×|√|
+| Diagnosis report|×|√|
