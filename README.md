@@ -13,7 +13,7 @@ Establish a reliable data transfer pipe line between RMDB and hive by wed based 
 | Data encryption|√|√|
 | Web based managment|√|√|
 | Dynamic private key|√|√|
-| Auto monitoring by machine learning|×|√|
+| Pipeline monitoring by machine learning|×|√|
 | Selectable encrypt method|×|√|
 | Data quality audit|×|√|
 | Data access monitoring|×|√|
