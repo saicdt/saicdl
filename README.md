@@ -20,6 +20,6 @@ Establish a reliable data transfer pipeline between RMDB and hive by wed based U
 | Data access monitoring|×|√|
 | Diagnosis report|×|√|
 | E-mail support|√|√|
-| 7 X 24 teleplone support|×|√|
+| 7 X 24 tel support|×|√|
 
 ### Contact us
