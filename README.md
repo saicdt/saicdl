@@ -8,6 +8,6 @@ Main features are listed below:
 
 | Feature        | Community Version         | Enterprise Version  |
 | ------------- |:-------------:| -----:|
-| Auto Deployment tool      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| Auto deployment tool      | ● | ● |
+| col 2 is      | ○      |   $12 |
 | zebra stripes | are neat      |    $1 |
