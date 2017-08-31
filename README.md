@@ -19,7 +19,7 @@ Establish a reliable data transfer pipeline between RMDB and hive by wed based U
 | Pipeline monitoring by machine learning|×|√|
 | Selectable encrypt method|×|√|
 | Data quality audit|×|√|
-| Data access monitoring|×|√|
+| Data access monitoring/audit|×|√|
 | Diagnosis report|×|√|
 | E-mail support|√|√|
 | Tel support|×|√|
