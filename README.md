@@ -15,6 +15,7 @@ Establish a reliable data transfer pipeline between RMDB and hive by wed based U
 | Data transfer encryption|√|√|
 | Dynamic encryption key|√|√|
 | Database level snapshot|√|√|
+| Row/Column level access control|√|√|
 | ***Kerberos supported***|√|√|
 | Pipeline monitoring by machine learning|×|√|
 | Selectable encrypt method|×|√|
