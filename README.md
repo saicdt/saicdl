@@ -17,6 +17,7 @@ Establish a reliable data transfer pipeline between RMDB and hive by wed based U
 | Database level snapshot|√|√|
 | Row/Column level access control|√|√|
 | Configurable data desensitization|√|√|
+| Data consistency guarantee|√|√|
 | ***Kerberos supported***|√|√|
 | Pipeline monitoring by machine learning|×|√|
 | Selectable encrypt method|×|√|
